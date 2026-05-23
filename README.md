@@ -10,11 +10,11 @@
 
 ## Screenshots
 
-| Product overview |
+| Marketing site (live) |
 |:---:|
-| ![CallsCatch AI voice and automation](docs/screenshots/product-overview.png) |
+| ![CallsCatch landing page](docs/screenshots/landing-page.png) |
 
-> Add a homepage or Retell workflow screenshot from production when available.
+*Live site: [callscatch.com](https://callscatch.com)*
 
 ## Role
 
